@@ -41,3 +41,7 @@
 .fpRating>span{
     font-size: 14px;
 }
+
+.fpCity{
+    text-transform: capitalize;
+}
